@@ -5,7 +5,7 @@
 <head>
       <meta charset="utf-8" />
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
-      <title>BnB Office, votre conciergerie</title>
+      <title>BnB Office, votre conciergerie Risoul Vars, location Airbnb</title>
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <!-- BOOSTRAP -->
       <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB"
@@ -19,9 +19,10 @@
       <!-- TYPO TITRE SERVICES -->
       <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
       <!-- FOOTER -->
-      <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400" rel="stylesheet"> 
+      <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400" rel="stylesheet">
       <!-- ICONS -->
-      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp"
+            crossorigin="anonymous">
       <!-- CSS -->
       <link rel="stylesheet" type="text/css" media="screen" href="css/main.css" />
 
@@ -31,27 +32,28 @@
 
 
 <body>
-      <div class="container-fluid">
-      </div class="row">
-      <div class="col-md-12 row-logo-bnb">
-            <img src="img/bnb_office_logo_conciergerie_risoul_vars.jpg" class="logo-bnb" alt="BnB Office,votre conciergerie">
-            <h1 class="signature">La conciergerie qui sait recevoir</h1>
-      </div>
-      </div>
+      <div class="container">
+            </div class="row">
+                  <div class="col-md-12 row-logo-bnb">
+                        <a href="index.php" ><img src="img/bnb_office_logo_conciergerie_risoul_vars.jpg" class="logo-bnb" alt="BnB Office,votre conciergerie"></a>
+                        <h1 class="signature">La conciergerie qui sait recevoir</h1>
+                  </div>
+            </div>
       </div>
 
 
       <div class="container">
             <div class="row">
-                  <div class="col-md-4 services-background-locataire">
+
+                  <a href="locataire.php" class="col-md-4 services-background-locataire"> 
                         <h1 class="titre-service">Services</br>locataire</h1>
-                  </div>
-                  <div class="col-md-4 services-background-proprietaire ">
+                  </a>
+                  <a href="proprietaire.php" class="col-md-4 services-background-proprietaire ">
                         <h1 class="titre-service">Services</br>propriétaire</h1>
-                  </div>
-                  <div class="col-md-4 services-background-pickup ">
-                        <h1 class="titre-service">Services</br>pick-up</h1>
-                  </div>
+                  </a>
+                  <a href="" class="col-md-4 services-background-pickup "> <!-- pickup.php -->
+                        <h1 class="titre-service">Services</br>pick-up</br>(prochainement)</h1>
+                  </a>
             </div>
 
             <div class="row">
@@ -71,8 +73,9 @@
 
 
       <!-- JQUERY -->
-      <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
-      <!-- script -->     
+      <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+            crossorigin="anonymous"></script>
+      <!-- script -->
       <script src="js/menu-app.js"></script>
 </body>
 

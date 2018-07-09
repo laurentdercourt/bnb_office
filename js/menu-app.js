@@ -5,6 +5,7 @@ $(document).ready(function (){
       $('.container').toggleClass('opaque');
       $('.logo-bnb').toggleClass('opaque');
       $('.signature').toggleClass('opaque');
+      $('.contact-pageheader').toggleClass('vide');
    })
 });
 
@@ -14,6 +15,3 @@ $(".btn-telephone").hover(
    $('.phonenumber').html('<a class="phonenumber">contact <span class="fas fa-phone"></span></a>');}
 );
 
-// // $(".btn-telephone").on("mouseout",function(){
-// //    $('.phonenumber').text("Contact");
-// });

@@ -47,52 +47,59 @@
                         <h1 class="titreadroite">services</h1>
                   </div>
                   <div class="col-md-4 alignementmarge">
-                        <h1 class="titreagauche"> LOCATAIRE</h1>
+                        <h1 class="titreagauche"> PICK-UP</h1>
                   </div>
             </div>
 
             <div class="row">      
                   <div class="[ col-md-4 ]">
                         <div class="[ info-card ]">
-                              <img style="width: 110%" src="img/frigoPlein.jpg" />
+                              <img style="width: 110%" src="img/bnb_office_conciergerie_risoul_vars_ frigo_plein.jpg" />
                               <div class="[ info-card-details ] animate">
                                     <div class="[ info-card-header ]">
                                           <h1> Frigo plein </h1>
-                                          <h3> A partir de 30 €TTC </h3>
+                                          <h3> 25 €TTC </h3>
                                     </div>
                                     <div class="[ info-card-detail ]">
                                           <!-- Description -->
-                                          <p>Faites vos courses au Drive de SuperU Embrun, vous réglez en ligne, BnB Office se chargera de récupérer vos achats, de les ranger dans votre frigo juste avant votre arrivée. Prévoir de commander minimum une semaaine avant votre arrivée </p>
+                                          <p>People often say that beauty is in the eye of the beholder, and I say that the
+                                                most liberating thing about beauty is realizing that you are the beholder.
+                                                This empowers us to find beauty in places where others have not dared to
+                                                look including inside ourselves.</p>
                                     </div>
                               </div>
                         </div>
                   </div>      
                   <div class="[ col-md-4 ]">
                         <div class="[ info-card ]">
-                              <img style="width: 110%" src="img/locationLinge.jpg" />
+                              <img style="width: 110%" src="img/bnb_office_conciergerie_risoul_vars_ frigo_plein.jpg" />
                               <div class="[ info-card-details ] animate">
                                     <div class="[ info-card-header ]">
-                                          <h1> Location de linge </h1>
-                                          <h3> Sur devis </h3>
+                                          <h1> Frigo plein </h1>
+                                          <h3> 25 €TTC </h3>
                                     </div>
                                     <div class="[ info-card-detail ]">
                                           <!-- Description -->
-                                          <p>Nous louons des draps, serviette, torchons. Prévoir de réserver une semaine à l'avance.</p>
+                                          <p>People often say that beauty is in the eye of the beholder, and I say that the most liberating
+                                                thing about beauty is realizing that you are the beholder. This empowers us to
+                                                find beauty in places where others have not dared to look including inside ourselves.</p>
                                     </div>
                               </div>
                         </div>
                   </div>
                   <div class="[ col-md-4 ]">
                         <div class="[ info-card ]">
-                              <img style="width: 110%" src="img/litFait.jpg" />
+                              <img style="width: 110%" src="img/bnb_office_conciergerie_risoul_vars_ frigo_plein.jpg" />
                               <div class="[ info-card-details ] animate">
                                     <div class="[ info-card-header ]">
-                                          <h1> Lit Fait </h1>
-                                          <h3> 8 €TTC / lit </h3>
+                                          <h1> Frigo plein </h1>
+                                          <h3> 25 €TTC </h3>
                                     </div>
                                     <div class="[ info-card-detail ]">
                                           <!-- Description -->
-                                          <p>Ce service s'applique uniquement si vous louez au préalable le linge de lit auprès de la conciergerie. A votre arrivée, les lits seront donc prêt à être utilisés.</p>
+                                          <p>People often say that beauty is in the eye of the beholder, and I say that the most liberating
+                                                thing about beauty is realizing that you are the beholder. This empowers us to
+                                                find beauty in places where others have not dared to look including inside ourselves.</p>
                                     </div>
                               </div>
                         </div>
