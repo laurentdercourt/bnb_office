@@ -54,7 +54,7 @@
                     <div class="contact-form">
                         <h3 class="contact-info-title">Contactez-nous !</h3>
                         <div class="row">
-                            <form action="contact/demande-contact.php" method="post">
+                            <form action="contact/demande-contact-version-mail.php" method="post">
                                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                                     <div class="form-group">
                                         <label class="control-label sr-only " for="Name"></label>
